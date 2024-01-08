@@ -7,6 +7,12 @@
 
 I work up with: Node.js | JavaScript | React.js | Wordpress | Python | XAMPP | MySQL | MongoDB
 
+<img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solamento02&layout=compact&langs_count=7&theme=panda" />
+
+<hr>
+
 You can contact me on:
 
 <a target="_blank" href="mailto:noahlikepotatos@hotmail.com">noahlikepotatos@hotmail.com</a>
+
+</hr>
