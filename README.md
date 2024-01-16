@@ -5,6 +5,9 @@
 - Status: Graduating Computer Science 👨🏻‍💻
 - Fun fact: I make some music to make myself feel better, and sometimes, help others that listen too :D 🎶
 
+<img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solamento02&layout=compact&langs_count=7&theme=panda" />
+<p>Inspired by <a href="https://github.com/RoyMusthang">Josué Lobo</a></p>
+
 <hr>
 I work up with: Node.js | JavaScript | React.js | Wordpress | Python | XAMPP | MySQL | MongoDB
 </hr>
