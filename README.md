@@ -1,18 +1,18 @@
-### Heey! I'm Noah, Fullstack Developer🌱
+### Heey! I'm Noah, Front End Developer🌱
 
 
-- I’m currently working as editor 📽
+- I’m currently working as freelancer developer on websites and editor for instagram 📽
 - Status: Graduating Computer Science 👨🏻‍💻
-- Fun fact: I make some music to make myself feel better, and sometimes, help others that listen too :D 🎶
 
 <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solamento02&layout=compact&langs_count=7&theme=panda" />
-<p>Inspired by <a href="https://github.com/RoyMusthang">Josué Lobo</a></p>
+<p>Copied by <a href="https://github.com/RoyMusthang">Josué Lobo</a></p>
 
 <hr>
-I work up with: Node.js | JavaScript | React.js | Wordpress | Python | XAMPP | MySQL | MongoDB
+I work up with: HTML | CSS | JavaScript | Node.js | React.js | Wordpress | Python | XAMPP
 </hr>
 
 # You can contact me on:
 
 <a target="_blank" href="mailto:noahlikepotatos@hotmail.com">noahlikepotatos@hotmail.com</a>
+</br>
 
