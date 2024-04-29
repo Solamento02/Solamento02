@@ -1,4 +1,4 @@
-### Heey! I'm Noah, Front End Developer🌱
+### Heey! I'm Noah, just random developer🌱
 
 
 - I’m currently working as freelancer developer on websites and editor for instagram 📽
@@ -8,7 +8,7 @@
 <p>Copied by <a href="https://github.com/RoyMusthang">Josué Lobo</a></p>
 
 <hr>
-I work up with: HTML | CSS | JavaScript | Node.js | React.js | Wordpress | Python | XAMPP
+I work up with: HTML | CSS | JavaScript | Node.js | React.js | React Native | Wordpress | Python | XAMPP
 </hr>
 
 # You can contact me on:
