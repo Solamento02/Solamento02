@@ -1,4 +1,4 @@
-### 𝖧𝖾𝖾𝗒! 𝖨'𝗆 AaAaaAa, 𝗃𝗎𝗌𝗍 𝗋𝖺𝗇𝖽𝗈𝗆 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋🌱
+### 𝖧𝖾𝖾𝗒! 𝖨'𝗆 Solinha, 𝗃𝗎𝗌𝗍 𝗋𝖺𝗇𝖽𝗈𝗆 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋🌱
 
 
 - I’m currently working as freelancer developer on websites and editor for instagram 📽
