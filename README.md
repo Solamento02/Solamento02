@@ -38,4 +38,5 @@
 
 <hr>
 
+<p>Icons on <a href="https://github.com/tandpfun/skill-icons"</a>Tandpfun</p>
 <p>Copied by <a href="https://github.com/RoyMusthang">Josué Lobo</a></p>
