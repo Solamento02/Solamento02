@@ -1,7 +1,7 @@
 ### 𝖧𝖾𝖾𝗒! 𝖨'𝗆 Solinha, 𝗃𝗎𝗌𝗍 𝗋𝖺𝗇𝖽𝗈𝗆 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋🌱
 
 
-- I’m currently working as freelancer developer on websites and editor for instagram 📽
+- I’m currently working as freelancer developer on websites and editor📽
 - Status: Graduating Computer Science 👨🏻‍💻
 
 <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solamento02&layout=compact&langs_count=7&theme=panda" />
