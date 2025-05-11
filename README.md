@@ -4,7 +4,7 @@
 - I’m currently working as freelancer developer on websites and editor📽
 - Status: Graduating Computer Science 👨🏻‍💻
 
-<img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solamento02&layout=compact&langs_count=7&theme=panda" />
+<img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solamento02&layout=donut&langs_count=7&theme=tokyonight" />
 
 <hr>
 
@@ -29,4 +29,4 @@
 <hr>
 
 <p>Icons on <a href="https://github.com/tandpfun/skill-icons"</a>Tandpfun</p>
-<p>Copied by <a href="https://github.com/RoyMusthang">Josué Lobo</a></p>
+<p>Graph thing <a href="https://github.com/anuraghazra/github-readme-stats"</a>Anurag Hazra</p>
